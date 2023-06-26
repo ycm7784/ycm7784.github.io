@@ -973,6 +973,11 @@ footer {
         padding: 30px 15px;
         top: auto;
         transform: none;
+        ul{
+            list-style-type: circle;
+            text-align: left;
+            padding-left: 20px;
+        }
     }
 
     footer {
