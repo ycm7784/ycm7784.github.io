@@ -674,6 +674,9 @@ footer {
         font-size: 0.9em;
     }
     ul{
+        color: $text;
+        margin: 0 0 15px 0;
+        font-size: 0.9em;
         list-style-type: circle;
         text-align: left;
         padding-left: 20px;
@@ -686,6 +689,14 @@ footer {
         margin: 0;
         padding: 30px 15px;
         transform: none;
+        ul{
+            color: $text;
+            margin: 0 0 15px 0;
+            font-size: 0.9em;
+            list-style-type: circle;
+            text-align: left;
+            padding-left: 20px;
+        }
     }
 }
 
@@ -974,6 +985,9 @@ footer {
         top: auto;
         transform: none;
         ul{
+            color: $text;
+            margin: 0 0 15px 0;
+            font-size: 0.9em;
             list-style-type: circle;
             text-align: left;
             padding-left: 20px;
