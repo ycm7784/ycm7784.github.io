@@ -977,7 +977,14 @@ footer {
     .project-image {
         display: none;
     }
-
+    .circle-list {
+        color: $text;
+        margin: 0 0 15px 0;
+        font-size: 0.9em;
+        list-style-type: circle;
+        text-align: left;
+        padding-left: 20px;
+      }
     .project-info {
         position: relative;
         margin: 0;
